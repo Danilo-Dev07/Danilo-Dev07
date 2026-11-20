@@ -1,6 +1,5 @@
-<div align="center">
-  <img width="550" alt="Banner Luar e Corvo" src="https://github.com/user-attachments/assets/dc74d400-d75a-46df-8be7-687a68ebf6bb" />
-</div>
+<img width="2098" height="749" alt="7c3fe2f7-c2a5-4cb8-9f48-9d9783c1f0a9" src="https://github.com/user-attachments/assets/6287ecbb-7f81-459f-8a8f-0962a5ef9550" />
+
 
 # 👋 Bem-vindo ao meu perfil!
 
